@@ -1,0 +1,22 @@
+/*** Desktop-Seitenlayout ***/
+@media screen and (min-width: 680px)
+{
+  /* #nav-top {
+	justify-content: flex-end;
+  } */
+  #nav-main {
+    background-color: rgb(207, 223, 244);
+    display: flex;
+    justify-content: center;
+    position: sticky;
+  }
+  #nav-main li {
+	/* border-top: none;
+	border-right: 1px solid rgba(40,31,55,0.9); */
+    display: inline-block;
+  }
+  .last,
+  #nav-main .last {
+    border-right: none;
+  }  
+}

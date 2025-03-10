@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.7//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.7/template-install.dtd">
+<extension version="1.7.0" type="template"  client="site">
+  <name>Klimaschutz</name>
+  <version>1.0</version>
+  <creationDate>07.08.2022</creationDate>
+  <author>Klimaschutz</author>
+  <copyright>Klimaschutz Team</copyright>
+  <authorEmail>info@safe-our-future.de</authorEmail>
+  <authorUrl></authorUrl>
+  <description>Klimawandel</description>
+  <files>
+  		<folder>html</folder>
+  		<folder>css</folder>
+  		<folder>images</folder>
+  		<folder>js</folder>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>templateDetails.xml</filename>
+  </files>
+  <positions>
+    <position>position-1</position>
+    <position>position-2</position>
+    <position>position-3</position>
+    <position>position-4</position>
+    <position>position-5</position>
+    <position>position-6</position>
+    <position>position-7</position>
+    <position>position-8</position>
+  </positions>
+  <params>
+  </params>
+</extension>
